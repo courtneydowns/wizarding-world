@@ -3374,6 +3374,75 @@
       "usage": "Potion-making, Healing magic, Wand core, Herbology",
       "appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Half-Blood Prince, Harry Potter and the Deathly Hallows, Harry Potter and the Deathly Hallows: Part 1 (film), Fantastic Beasts and Where to Find Them (film) (mentioned only)"
     },
-    ""
+    "Fairy Wings": {
+      "name": "Fairy Wings",
+      "takenFrom": "Fairies",
+      "physicalCharacteristics": "Multicolored or transparents",
+      "preparation": "Ground",
+      "usedIn": "Beautification Potion",
+      "usage": "Potion-making",
+      "appearances": "Fantastic Beasts and Where to Find Them (mentioned only)"
+    },
+    "Fanged Geranium": {
+      "sentience": "Sentient",
+      "leaves": "Green in color",
+      "flowers": "Blue or red in color",
+      "distinction": "Fangs used in potions and cooking, Herbology",
+      "status": "Extant",
+      "usedIn": "Skele-Gro",
+      "usage": "Potion-making, Herbology, Cooking",
+      "appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Fluxweed": {
+      "name": "Fluxweed",
+      "sentience": "Non-sentient",
+      "stem": "Green in color",
+      "leaves": "Green in color",
+      "flowers": "Purple in color",
+      "usedIn": "Polyjuice Potion",
+      "usage": "Potion-making, Herbology, Healing magic",
+      "appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film)"
+    },
+    "Ginger": {
+      "endemixTo": "Southeast Asia",
+      "naturalEnvironment": "Warm climates",
+      "sentience": "Non-sentient",
+      "roots": "Ginger root",
+      "stem": "Leafy green",
+      "leaves": "Green",
+      "flowers": "Yellow and purple in color",
+      "distinction": "A highly-flavored spice",
+      "usedIn": "Beautification Potion, Wit-Sharpening Potion",
+      "usage": "Potion-making, Herbology, Food and drink, Healing magic",
+      "appearances": "Harry Potter and the Prisoner of Azkaban (first appearance), Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (mentioned only), Harry Potter and the Half-Blood Prince (film), Harry Potter and the Deathly Hallows (mentioned only)"
+    },
+    "Griffin Claw": {
+      "name": "Griffin Claw",
+      "takenFrom": "Griffin",
+      "physicalCharacteristics": "Black in color",
+      "preparation": "Powdered",
+      "usedIn": "Strengthening Solution",
+      "usage": "Potion-making",
+      "appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+    },
+    "Gillyweed": {
+      "name": "Gillyweed",
+      "endemicTo": "Mediterranean Sea",
+      "naturalEnvironment": "Salt water",
+      "sentience": "Non-sentient",
+      "roots": "Green in color",
+      "leaves": "Green in color",
+      "distinction": "Grey-green in color, slimy, resembles rat tails",
+      "usage": "To help humans breathe underwater, Potion-making, Herbology",
+      "affiliation": "Water",
+      "status": "Extant",
+      "appearances": "Harry Potter and the Goblet of Fire (fire appearance), Harry Potter and the Goblet of Fire (film)"
+    },
+    "Gurdyroot": {
+      "name": "Gurdyroot",
+      "sentience": "Non-sentient",
+      "distinction": "Resembles a green onion, Bogey-like taste",
+      "usage": "Wards off Gulping Plimpies (possibly; according to Luna Lovegood), Extract of Gurdyroot is used as a potion ingredient in the Love Potion Antidote"
+    }
   }
 }
