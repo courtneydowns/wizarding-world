@@ -1,0 +1,461 @@
+{
+  "potions": {
+    "Ageing Potion": {
+      "Name": "Ageing Potion",
+      "Effect": "Ageing potion is a powerful potion that causes the drinker to temporarily become older. The more of the potion that was drunk, the larger the ageing would occur",
+      "Characteristics": "Green",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Newt spleens, bananas, an orange snake, a green leaf",
+      "Appearances": "Harry Potter and the Goblet of Fire (first appearance, Harry Potter and the Goblet of Fire (film)"
+    },
+    "Amortentia": {
+      "Name": "Amortentia",
+      "Effect": "Amortentia is the most powerful love potion in existence. It causes a powerful infatuation or obsession from the drinker.",
+      "Characteristics": "Mother-of-pearl sheen, spiraling steam, scent is multi-faceted and varies based on what the person likes",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Pearl dust",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film)"
+    },
+    "Antidote to Veritaserum": {
+      "Name": "Antidote to Veritaserum",
+      "Effect": "This antidote counters the effects of Veritaserum.",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first mentioned)"
+    },
+    "Armadillo Bile Mixture": {
+      "Name": "Armadillo Bile Mixture",
+      "Effect": "Armadillo Bile is corrosive.",
+      "Characteristics": "Corrosive",
+      "Known Ingredients": "Bat Wings, Armadillo Bile, Wormwood, Amotentia, Acromantula Venom, Aconite, Water (likely)",
+      "Appearances": "Harry Potter and the Half-Blood Prince (film) (first appearance)"
+    },
+    "Babbling Beverage": {
+      "Name": "Babbling Beverage",
+      "Effect": "Babbling beverage was a potion that caused the drinker to babble nonsense",
+      "Characteristics": "Red",
+      "Difficulty Level": "Moderate",
+      "Known Ingredients": "Valerian Sprigs, Aconite, Dittany",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+    },
+    "Baruffio's Brain Elixir": {
+      "Name": "Baruffio's Brain Elixir",
+      "Effect": "Baruffio's Brain Elixir was a potion that supposedly increased the drinker's brain power.",
+      "Characteristics": "Green",
+      "Known Ingredients": "Leaping Toadstools, Frog Brains, Runespoor Eggs, Powdered Dragon Claw",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Befuddlement Draught": {
+      "Name": "Befuddlement Draught",
+      "Effect": "Befuddlement Draught was a potion which caused the drinker to become belligerent and reckless.",
+      "Characteristics": "Dark green or red",
+      "Known Ingredients": "Scurvy Grass, Lovage, Sneezewort",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "First Love Beguiling Bubbles": {
+      "Name": "First Love Beguiling Bubbles",
+      "Effect": "First Love Beguiling Bubbles was a love potion from the WonderWitch line by Weasley's Wizard Wheezes. It causes the drinker to become infatuated with the giver of the potion.",
+      "Characteristics": "Red",
+      "Known Ingredients": "Pearl dust",
+      "Appearances": "Harry Potter and the Half-Blood Prince (film) (first appearance)"
+    },
+    "Tolipan Blemish Blitzer": {
+      "Name": "Tolipan Blemish Blitzer",
+      "Effect": "Tolipan Blemish Blitzer is a potion that treats acne.",
+      "Characteristics": "White in color, thick paste consistency",
+      "Known Ingredients": "Dragon Claw",
+      "Appearances": "Harry Potter and the Order of the Phoenix (film) (first mentioned), Fantastic Beasts and Where to Find Them (film) (mentioned only)"
+    },
+    "Blood-Replenishing Potion": {
+      "Name": "Blood-Replenishing Potion",
+      "Effect": "The Blood-Replenishing potion was a healing potion that replenished blood lost from injuries or other means",
+      "Characteristics": "Dark red",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+    },
+    "Bruise Removal Paste": {
+      "Name": "Bruise Removal Paste",
+      "Effect": "The Bruise Removal Paste was a thick yellow healing potion, guaranteed to remove any bruise within the hour.",
+      "Characteristics": "Thick yellow paste",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance)"
+    },
+    "Burn-Healing Paste": {
+      "Name": "Burn-Healing Paste",
+      "Effect": "Burn-Healing Paste was a healing potion in the form of a thick orange paste, which was used to heal burns",
+      "Characteristics": "Orange, thick consistency",
+      "Appearances": "Harry Potter and the Goblet of Fire, (first appearance)"
+    },
+    "Calming Draught": {
+      "Name": "Calming Draught",
+      "Effect": "A Calming Draught potion was used to calm a person down after they have suffered a shock, trauma, or emotional outburst",
+      "Characteristics": "Blue",
+      "Difficulty Level": "Moderate to advanced",
+      "Known Ingredients": "Lavender, Crocodile Heart, Peppermint",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+    },
+    "Caxambu Style Borborygmus Potion": {
+      "Name": "Caxambu Style Borborygmus Potion",
+      "Effect": "Caxambu Style Borborgmus Potion is a concoction that, given its Name, was developed in Caxambu, Brazil and provokes stomach growing.",
+      "Appearances": "Harry Potter and the Order of the Phoenix (film) (first appearance)"
+    },
+    "Confusing Concoction": {
+      "Name": "Confusing Concoction",
+      "Effect": "The Confusion Concoction, also known as Confusing Draught, was a potion which caused confusion in the drinker",
+      "Difficulty Level": "Moderate to advanced",
+      "Known Ingredients": "Scurvy Grass, Lovage, Sneezewort",
+      "Appearances": "Harry Potter and the Prisoner of Azkaban (first appearance), Harry Potter and the Order of the Phoenix (mentioned only)"
+    },
+    "Cure for Boils": {
+      "Name": "Cure for Boils",
+      "Effect": "The Cure for Boils (also known as simply Boil Cure) was a potion which removed boils, such as those produced by the Pimple Jinx.",
+      "Characteristics": "Blue, emits pink smoke when completed",
+      "Difficulty Level": "Beginner",
+      "Known Ingredients": "Dried Nettles, 6 Snake Fangs, 4 Horned Slugs, 2 Porcupine Quills",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+    },
+    "Death Potion": {
+      "Name": "Death Potion",
+      "Effect": "This potion was a black potion contained within the Death Cell at the Magical Congress of the United States of America. It was used to carry out executions in the 1920s, especially in 1926 with the failed death sentence of Porpentina Goldstein.",
+      "Characteristics": "Black",
+      "Difficulty Level": "Advanced presumably",
+      "Appearances": "Fantastic Beasts and Where to Find Them: The Original Screenplay (first appearance), Fantastic Beasts and Where to Find Them (film)"
+    },
+    "Deflating Draught": {
+      "Name": "Deflating Draught",
+      "Effect": "The Deflating Draught was a potion that caused anything swollen by magical means to shrink back to normal size. This was the opposite of a Swelling Solution and acted as an antidote to it.",
+      "Characteristics": "Green",
+      "Difficulty Level": "Ordinary Wizarding Level",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance)"
+    },
+    "Doxycide": {
+      "Name": "Doxycide",
+      "Effect": "Doxycide was a black-coloured, foul smelling potion used to spray Doxies. It paralyzed them for a period of time, allowing the user to safely remove the Doxies without fear of being bitten. The recipe could be found in Book of Potions.",
+      "Characteristics": "Black, typically delivered as a spray",
+      "Difficulty Level": "Moderate",
+      "Known Ingredients": "Bundimun Ooze, Streeler Shells, Dragon Liver, Hemlock Essence, Torentil Tincture, Cowbane Essence",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Dr Ubbly's Oblivious Unction": {
+      "Name": "Dr. Ubbly's Oblivious Unction",
+      "Effect": "Dr Ubbly's Oblivious Unction was a medicinal potion given to Ron Weasley by Poppy Pomfrey after he had been attacked by brains in the Department of Mysteries. It proved mostly effective in healing the injuries caused by the brains' tentacles and thoughts,[1] though several months later there was still at least some scarring left.",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Draught of Living Death": {
+      "Name": "Draught of Living Death",
+      "Effect": "The Draught of Living Death was an extremely powerful Sleeping Draught, sending the drinker into a deathlike slumber. Its effects are similar to suspended animation. This draught is an advanced potion, taught to sixth year N.E.W.T. students at Hogwarts School of Witchcraft and Wizardry.",
+      "Characteristics": "Turns a pale lilac color and then clear",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Standard Potioning Water, Powdered Root of Asphodel, Infusion of Wormwood, Valerian root, One Sopophorous bean, One Sloth Brain, Moondew, Flower Head",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film) (mentioned in deleted scene), Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film)"
+    },
+    "Draught of Peace": {
+      "Name": "Draught of Peace",
+      "Effect": "The Draught of Peace was a potion which relieved anxiety and agitation. Its ingredients were powdered moonstone, syrup of hellebore, powdered porcupine quills, and powdered unicorn horn. It should have been a turquoise blue colour when finished, and simmered before being consumed.",
+      "Characteristics": "Emits a light silver vapor",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Powdered Moonstone, Syrup of Hellebore, Powdered Unicorn Horn, Powdered Porcupine Quills, Valerian Root",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Dreamless Sleep Potion": {
+      "Name": "Dreamless Sleep Potion",
+      "Effect": "The Dreamless Sleep Potion, also known as the Potion for Dreamless Sleep, is used to induce drowsiness and, if don't properly, provides a dreamless sleep for the drinker",
+      "Characteristics": "Purple in color",
+      "Difficulty Level": "Advanced",
+      "Appearances": "Harry Potter and the Goblet of Fire (first appearance)"
+    },
+    "Drink of Despair": {
+      "Name": "Drink of Despair",
+      "Effect": "The Drink of Despair, also know as the Emerald Potion, was a mysterious potion which induces fear, delirium, intense stomach pain and extreme thirst in the drinker",
+      "Characteristics": "Emerald green in color, glows phosphorescently",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film), Harry Potter and the Deathly Hallows (appears in vision(s)), Harry Potter and the Deathly Hallows: Part 1 (appears in vision(s))"
+    },
+    "Elixir of Life": {
+      "Name": "Elixir of Life",
+      "Effect": "The Elixir of Life was a potion procured from the Philosopher's Stone that made the drinker immortal, as long as they consumed the potion on a regular basis.",
+      "Difficulty Level": "One of a kind",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first mentioned), Harry Potter and the Philosopher's Stone (film) (mentioned only), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Half-Blood Prince (mentioned only), Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay (indirectly mentioned only), Fantastic Beasts: The Crimes of Grindelwald (film) (indirectly mentioned only)"
+    },
+    "Elixir to Induce Euphoria": {
+      "Name": "Elixir to Induce Euphoria",
+      "Effect": "The Elixir to Induce Euphoria is a sunshine-yellow potion that induces a sense of inexplicable, irrational happiness upon the drinker.",
+      "Characteristics": "Sunshine yellow in color, emits rainbow when finished",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Shrivelfig, Porcupine Quills, Peppermint Sprigs, Sopophorous Beans, Wormwood",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first-appearance)"
+    },
+    "Essence of Insanity": {
+      "Name": "Essence of Insanity",
+      "Effect": "Essence of Insanity was a potion which caused irrational decision making in the drinker.",
+      "Characteristics": "Green",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Frog Brain, Beetle Eye",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first mentioned)"
+    },
+    "Everlasting Elixir": {
+      "Name": "Everlasting Elixir",
+      "Effect": "Everlasting Elixirs were a Type of potion with the effect to either never run out of potion of for the potion to work forever.",
+      "Characteristics": "Blue",
+      "Difficulty Level": "Advanced",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first mentioned)"
+    },
+    "Felix Felicis": {
+      "Name": "Felix Felicis",
+      "Effect": "Felix Felicis, also called 'Liquid Luck', was a potion that made the drinker lucky for a period of time,, during which everything they attempt would be successful. It turned an ordinary day into an extraordinary one.",
+      "Characteristics": "Molten gold in color, droplets leap like goldfish above the potion's surface when in the cauldron",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Ashwinder Egg, Squill Bulb, Murtlap Tentacle, Tincture of Thyme, Occamy Eggshell, Powdered Common Rue",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film), Harry Potter and the Deathly Hallows: Part 2 (film) (possible appearance)"
+    },
+    "Fergus Fungal Budge": {
+      "Name": "Fergus Fungal Budge",
+      "Effect": "Fergus Fungal Budge was a kind of medical dressing soaked with a fungicidal product, that treated ringworm infections on the feet.",
+      "Known Ingredients": "Onion Juice, Jewelweed, Neem Oil",
+      "Appearances": "Harry Potter and the Order of the Phoenix (film) (first mentioned) (mentioned in a newspaper)"
+    },
+    "Fire Protection Potion": {
+      "Name": "Fire Protection Potion",
+      "Effect": "The Fire Protection Potion,[4][5] also known as the Ice Potion,[6] was a potion used to move through flames unscathed. When drunk, it induces a sensation of ice and frigidity in the drinker, and provides protection from most magical fires.",
+      "Characteristics": "Blue in color",
+      "Difficulty Level": "Beginner",
+      "Known Ingredients": "Bursting mushrooms, Salamander blood, Wartcap powder",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first appearance)"
+    },
+    "Flesh-Eating Slug Repellent": {
+      "Name": "Flesh-Eating Slug Repellent",
+      "Effect": "Flesh-Eating Slug Repellent was a pesticide potion used to get rid of Flesh-Eating Slugs.",
+      "Characteristics": "Clear in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first mentioned), Harry Potter and the Chamber of Secrets (film) (first appearance)"
+    },
+    "Forgetfulness Potion": {
+      "Name": "Forgetfulness Potion",
+      "Effect": "The Forgetfulness Potion was a potion which caused an unknown degree of memory loss in the drinker.",
+      "Characteristics": "Orange in color",
+      "Difficulty Level": "Beginner",
+      "Known Ingredients": "2 drops of Lethe River water, 2 Valerian sprigs, 2 measures of Standard Ingredient, 4 mistletoe berries",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first appearance), Harry Potter and the Philosopher's Stone (film) (mentioned in a a deleted scene)"
+    },
+    "Garrotting Gas": {
+      "Name": "Garrotting Gas",
+      "Effect": "A colorless gas, Garrotting Gas is produced as a result of the creation of a certain potion. Anyone exposed to the gas, will find themselves choking and as a result, may suffocate, as the gas catches people by the neck if they pass through it.",
+      "Characteristics": "Colorless",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first mentioned)"
+    },
+    "Hair-Raising Potion": {
+      "Name": "Hair-Raising Potion",
+      "Effect": "The Hair-Raising Potion was a potion that caused the drinker's hair to stand on end.",
+      "Characteristics": "Green in color",
+      "Difficulty Level": "Beginner to Ordinary Wizarding Level",
+      "Known Ingredients": "Rat tails, Porcupine quills, Billwig stings",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first mentioned)"
+    },
+    "Hiccoughing Solution": {
+      "Name": "Hiccoughing Solution",
+      "Effect": "A potion that presumably causes hiccoughing",
+      "Characteristics": "Yellow in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film)"
+    },
+    "Invigoration Draught": {
+      "Name": "Invigoration Draught",
+      "Effect": "A potion that presumably boosted the drinker's energy.",
+      "Characteristics": "Orange or blue in color",
+      "Difficulty Level": "Ordinary Wizarding Level",
+      "Known Ingredients": "Alihotsy leaves, Dried billwig stings, Peppermint, Stewed Mandrake, Infusion of Wormwood, Honeywater, Vervain Infusion, Scurvy grass, Lovage",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Laxative Potion": {
+      "Name": "Laxative Potion",
+      "Effect": "A potion that is most likely a laxative.",
+      "Characteristics": "N/A",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Two scrumples of an unknown ingredient, an ingredient used in a furnace, Agrimonia",
+      "Appearances": "Harry Potter and the Chamber of Secrets (film) (first mentioned)"
+    },
+    "Love Potion Antidote": {
+      "Name": "Love Potion Antidote",
+      "Effect": "The Love Potion Antidote was a potion that cured the symptoms of any love potion in an individual.",
+      "Characteristics": "Clear, colorless",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Wiggentree twigs, Castor oil, Extract of Gurdyroot",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film)"
+    },
+    "Mandrake Restorative Draught": {
+      "Name": "Mandrake Restorative Draught",
+      "Effect": "The Mandrake Restorative Draught[2] was a healing potion used to restore those who have been transfigured or cursed to their original state. It required Mandrake roots that have been matured past the stage of adolescence.",
+      "Characteristics": "N/A",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Stewed Mandrakes",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first mentioned), Harry Potter and the Chamber of Secrets (film)"
+    },
+    "Memory Potion": {
+      "Name": "Memory Potion",
+      "Effect": "A Memory Potion was a potion which improved the drinker's memory, boosting their mental cognition.",
+      "Characteristics": "Golden in color",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Jobberknoll feathers, Stewed Mandrake, Powdered Sage, Galanthus Nivalis",
+      "Appearances": "Fantastic Beasts and Where to Find Them (first mentioned)"
+    },
+    "Mouth Itching Antidote": {
+      "Name": "Mouth Itching Antidote",
+      "Effect": "The Mouth Itching Antidote was a healing potion to cure mouth itching.",
+      "Characteristics": "Pale green in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Prisoner of Azkaban (film) (first appearance)"
+    },
+    "Murtlap Essence": {
+      "Name": "Murtlap Essence",
+      "Effect": "Murtlap Essence soothes painful cuts and abrasions, and helps them to heal",
+      "Characteristics": "Blue in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Murtlap tentacles",
+      "Appearances": "Harry Potter and the Order of the Phoenix"
+    },
+    "Pepperup Potion": {
+      "Name": "Pepperup Potion",
+      "Effect": "The Pepperup Potion cured the common cold and warmed the recipient up.",
+      "Characteristics": "Red in color",
+      "Difficulty Level": "Moderate",
+      "Known Ingredients": "Bicorn horn, Mandrake root, Jewelweed",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Goblet of Fire"
+    },
+    "Polyjuice Potions": {
+      "Name": "Polyjuice Potion",
+      "Effect": "The Polyjuice Potion was a potion that allowed the drinker to assume the form of someone else.",
+      "Characteristics": "Before addition of final ingredient: Thick and mud-like, Bubbles slowly; After addition of final ingredient: Taste and color vary depending on the person being turned into",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Lacewing flies (stewed for 21 days), Leeches, Powdered bicorn horn, Knotgrass, Fluxweed (picked at the full moon), Shredded Boomslang skin, A bit of the person you want to turn into (typically hair)",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire, Harry Potter and the Goblet of Fire (film), Harry Potter and the Order of the Phoenix (mentioned only), Harry Potter and the Half-Blood Prince (film) (mentioned only), Harry Potter and the Deathly Hallows, Harry Potter and the Deathly Hallows: Part 1 (film), Harry Potter and the Deathly Hallows: Part 2 (film), Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay, Fantastic Beasts: The Crimes of Grindelwald (film)"
+    },
+    "Rat Tonic": {
+      "Name": "Rat Tonic",
+      "Effect": "Rat Tonic was a healing potion for rats. It was used to treat ageing rats",
+      "Characteristics": "Green or red in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Prisoner of Azkaban (first appearance)"
+    },
+    "Regeneration Potion": {
+      "Name": "Regeneration Potion",
+      "Effect": "This potion was an 'old piece of dark magic' that restores a wizard whose body has become maimed and disfigured to their true and whole bodily form",
+      "Characteristics": "Fiery sparks when begun, Poisonous blue when the bone is added, Burning red when the flesh is added, Blinding white becoming steam when blood is added",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Bone of father, Flesh of a servant, Blood of a foe",
+      "Appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Goblet of Fire (film), Harry Potter and the Deathly Hallows (mentioned only)"
+    },
+    "Rudimentary Body Potion": {
+      "Name": "Rudimentary Body Potion",
+      "Effect": "This potion helps restore non-corporeal wizards to a rudimentary bodies/sustains rudimentary bodies",
+      "Characteristics": "N/A",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Nagini's venom, Unicorn blood",
+      "Appearances": "Harry Potter and the Goblet of Fire (first mentioned"
+    },
+    "Scintillation Solution": {
+      "Name": "Scintillation Solution",
+      "Effect": "Unknown",
+      "Characteristics": "Turquoise in color, sparkling upon completion",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Chamber of Secrets"
+    },
+    "Shrinking Solution": {
+      "Name": "Shrinking Solution",
+      "Effect": "The Shrinking Solution, also known as the Shrinking Potion, is a potion that causes the drinker to shrink to a smaller form. It is bright green when brewed correctly and, if prepared incorrectly, it can apparently be poisonous.",
+      "Characteristics": "Acid Green in color",
+      "Difficulty Level": "Moderate to advanced",
+      "Known Ingredients": "Minced daisy roots, Peeled Shrivelfig, Sliced caterpillars, One rat spleen, a dash of leech juice, a splash of cowbane, Wormood",
+      "Appearances": "Harry Potter and the Prisoner of Azkaban"
+    },
+    "Skele-Gro": {
+      "Name": "Skele-Gro",
+      "Effect": "Skele-Gro (alternately spelled Skelegro) was a dreadful-tasting potion which restored bones. It was able to mend broken bones, or even regrow entire bones that have vanished or been otherwise lost. For regrowing entire bones, the process was a notably slow and painful process that could take over a full day.",
+      "Characteristics": "Smokes when poured, Vile tasting, Burns on the way down, Yellow in color",
+      "Difficulty Level": "Moderate",
+      "Known Ingredients": "1 Chinese Chomping Cabbage, 3 Puffer-fish, 5 Scarab Beetles, 1 Fanged Geranium, 1 arm bone, 1 red spider",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire (mentioned only), Harry Potter and the Deathly Hallows"
+    },
+    "Sleekeazy's Hair Potion": {
+      "Name": "Sleekeazy's Hair Potion",
+      "Effect": "Sleekeazy's Hair Potion and Scalp Treatment was a hair care potion and scalp treatment that was invented by Fleamont Potter. It was originally sold with the slogan 'Two drops tames even the most bothersome barnet'.",
+      "Characteristics": "N/A",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "Gomas Barbadensis, Asian Dragon Hair, Petroleum Jelly",
+      "Appearances": "Harry Potter and the Goblet of Fire (first mentioned)"
+    },
+    "Sleeping Draught": {
+      "Name": "Sleeping Draught",
+      "Effect": "The Sleeping Draught, also known as the Sleeping Potion, was a potion that caused the drinker to fall almost instantaneously into a deep but temporary sleep.",
+      "Characteristics": "Dark Purple",
+      "Difficulty Level": "Beginner to Advanced",
+      "Known Ingredients": "Wormwood, Powdered Asphodel petals, Flobberworm Mucus, Sophphorous Bean, Valerian sprigs, Nettle essence",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance), Harry Potter and the Chamber of Secrets (film), Harry Potter and the Goblet of Fire (mentioned only)"
+    },
+    "Strengthening Solution": {
+      "Name": "Strengthening Solution",
+      "Effect": "Strengthening Solution was a potion that granted the drinker immense strength.",
+      "Characteristics": "Turquoise in color",
+      "Difficulty Level": "Beginner to Advanced",
+      "Known Ingredients": "Salamander blood, powdered Griffin claw",
+      "Appearances": "Harry Potter and the Order of the Phoenix (first appearance)"
+    },
+    "Swelling Solution": {
+      "Name": "Swelling Solution",
+      "Effect": "The Swelling Solution was a potion which caused whatever it touched to swell in size.",
+      "Characteristics": "Yellow in color",
+      "Difficulty Level": "Beginner",
+      "Known Ingredients": "Puffer-fish eyes, Dried nettles, Bat spleens",
+      "Appearances": "Harry Potter and the Chamber of Secrets (first appearance)"
+    },
+    "Ten-Second Pimple Vanish": {
+      "Name": "Ten-Second Pimple Vanish",
+      "Effect": "The Ten-Second Pimple Vanisher was a healing potion which came in a small pink pot, which was excellent on anything from boils to pimples and to also blackheads. Its purpose was to immediately eliminate extreme face acne.",
+      "Characteristics": "Pink in color",
+      "Difficulty Level": "N/A",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Half-Blood Prince (first appearance), Harry Potter and the Half-Blood Prince (film)"
+    },
+    "Veritaserum": {
+      "Name": "Veritaserum",
+      "Effect": "Veritaserum was a powerful truth serum. The potion effectively forced the drinker to answer any questions put to them truthfully, though there were certain methods of resistance.",
+      "Characteristics": "Clear and odorless like water",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Goblet of Fire (first appearance), Harry Potter and the Goblet of Fire (film), Harry Potter and the Order of the Phoenix (mentioned only), Harry Potter and the Order of the Phoenix (mentioned only), Harry Potter and the Half-Blood Prince, Harry Potter and the Half-Blood Prince (film), Harry Potter and the Deathly Hallows (mentioned only)"
+    },
+    "Weedosoros": {
+      "Name": "Weedosoros",
+      "Effect": "Weedosoros is a potion and a highly potent poison. The exact effects of this poison are unknown, although it is possible that it causes convulsion,along with other unpleasant bodily side effects",
+      "Characteristics": "Deep purple in color",
+      "Difficulty Level": "Moderate",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Philosopher's Stone (first appearance), Harry Potter and the Philosopher's Stone (film)"
+    },
+    "Wit-Sharpening Potion": {
+      "Name": "Wit-Sharpening Potion",
+      "effect": "The Wit-Sharpening Potion was a potion which allowed the drinker to think more clearly. Due to this, it acted as an antidote to the Confundus Charm",
+      "Characteristics": "Green, white or purple in color",
+      "Difficulty Level": "Moderate to Ordinary Wizarding Level",
+      "Known Ingredients": "Ground scarab beetles, Cut ginger roots, Armadillo bile, Newt spleens",
+      "Appearances": "Harry Potter and the Goblet of Fire"
+    },
+    "Wolfsbane Potion": {
+      "Name": "Wolfsbane Potion",
+      "effect": "The Wolfsbane Potion was an innovative and complex potion that relieved, but did not cure, the symptoms of lycanthropy, or werewolfry.",
+      "Characteristics": "Faint blue smoke, unpleasant taste, rendered useless with sugar",
+      "Difficulty Level": "Advanced",
+      "Known Ingredients": "Wolfsbane",
+      "Appearances": "Harry Potter and the Prisoner of Azkaban (first appearance), Harry Potter and the Prisoner of Azkaban (film) (mentioned only) (unidentified in DVD), Harry Potter and the Half-Blood Prince (mentioned only), Harry Potter and the Half-Blood Prince (film) (mentioned only), Fantastic Beasts and Where to Find Them (film) (mentioned only)"
+    },
+    "Wound-Cleaning Potion": {
+      "Name": "Wound-Cleaning Potion",
+      "effect": "The Wound-Cleaning Potion, or Wound Cleaning Potion,w as a healing potion that was used to sterilize wounds as a powerful antiseptic. It smoked and stung when applied.",
+      "Characteristics": "Purple liquid, Smokes on contact, Stings on contact",
+      "difficultyLeven": "Advanced",
+      "Known Ingredients": "N/A",
+      "Appearances": "Harry Potter and the Goblet of Fire (first appearance)"
+    }
+  }
+}

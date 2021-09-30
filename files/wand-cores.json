@@ -1,0 +1,84 @@
+{
+  "wand-cores": {
+    "Dragon Heartstring": {
+      "Core material": "Dragon heartstring",
+      "Used by": "Garrick Ollivander, Gregorovitch",
+      "Known characteristics": "Powerful and easy to learn spells, though could easily be committed to another"
+    },
+    "Phoenix Feather": {
+      "Core material": "Phoenix Feather",
+      "Used by": "Garrick Ollivander",
+      "Known characteristics": "Learned most varied magic, hard to be chosen"
+    },
+    "Unicorn Tail": {
+      "Core material": "Unicorn tail hair",
+      "Used by": "Garrick Ollivander",
+      "Known characteristics": "Consistent magic, bonded strongly to fist user"
+    },
+    "Veela Hair": {
+      "Core material": "Veela hair",
+      "Used by": "N/A",
+      "Known characteristics": "Temperamental"
+    },
+    "Kneazle Whisker": {
+      "Core material": "Kneazle whisker",
+      "Used by": "N/A",
+      "Known characteristics": "Not very powerful"
+    },
+    "Kelpie Hair": {
+      "Core material": "Kelpie hair",
+      "Used by": "Gervaise Ollivander",
+      "Known characteristics": "Easily obtainable, frequently used in the past"
+    },
+    "Thestral Hair": {
+      "Core material": "Thestral hair",
+      "Used by": "Antioch Peverell",
+      "Known characteristics": "Not easily seen"
+    },
+    "Coral": {
+      "Core material": "Coral",
+      "Used by": "Gregorovitch",
+      "Known characteristics": "Unknown"
+    },
+    "Thunderbird Tail Feather": {
+      "Core material": "Thunderbird tail feather",
+      "Used by": "Shikoba Wolfe",
+      "Known characteristics": "Powerful, but difficult to master, particularly prized by Transfigurers. Could sense danger and cast curses on their one."
+    },
+    "Wampus Cat Hair": {
+      "Core material": "Wampus cat hair",
+      "Used by": "Johannes Jonker, Isolt Sayre, James Steward",
+      "Known characteristics": "Unknown"
+    },
+    "White River Monster Spine": {
+      "Core material": "White River Monster spine",
+      "Used by": "Thiago Quintana",
+      "Known characteristics": "Produced spells of force and elegance"
+    },
+    "Rougarou Hair": {
+      "Core material": "Rougarou hair",
+      "Used by": "Violette Beauvais",
+      "Known characteristics": "Rumored to have had an affinity for dark magic, although suitable for use by non-dark wizards and witches as well,"
+    },
+    "Horned Serpent Horn": {
+      "Core material": "Horned Serpent horn",
+      "Used by": "Isolt Sayre, James Steward",
+      "Known characteristics": "Exceptionally powerful and sensitive to Parseltongue. Could warn its owner of danger by emitting a low musical tone"
+    },
+    "Snallygaster Heartstring": {
+      "Core material": "Snallygaster heartstring",
+      "Used by": "Isolt Sayre, James Steward",
+      "Known characteristics": "Unknown"
+    },
+    "Basilisk Horn": {
+      "Core material": "Basilisk horn",
+      "Used by": "Salazar Slytherin",
+      "Known characteristics": "Unknown, presumably had an affinity for the Dark Arts"
+    },
+    "Curupira Hair": {
+      "Core material": "Curupira hair",
+      "Used by": "N/A",
+      "Known characteristics": "Unstable, had an affinity for powerful yet unpredictable wizards"
+    }
+  }
+}
