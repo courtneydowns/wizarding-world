@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { getDatabase, ref, onValue, child } from "firebase/database";
+import { getDatabase, ref, onValue, child, get } from "firebase/database";
 import "./App.css";
 
 function App() {
@@ -7,59 +7,70 @@ function App() {
   const spellsRef = ref(database, "spells");
 
   const [spells, setSpells] = useState([]);
+  const [displayedSpell, setDisplayedSpell] = useState(null);
+
+  function getSpellByName(spellName) {
+    const dbRef = ref(getDatabase());
+
+    get(child(dbRef, `spells/${spellName}`)).then((snapshot) =>
+      setDisplayedSpell(snapshot.val())
+    );
+  }
 
   useEffect(() => {
     onValue(spellsRef, (snapshot) => {
-      const val = snapshot.val();
-
+      const spellsObj = snapshot.val();
       const spellsArr = [];
 
-      for (const spell in val) {
-        spellsArr.push({ ...val[spell] });
+      for (const spell in spellsObj) {
+        spellsArr.push({ ...spellsObj[spell] });
       }
 
       setSpells(spellsArr);
     });
-  });
-
-  const dbRef = ref(getDatabase());
-  get(child(dbRef, `spells/${spell.Name}`))
-    .then((snapshot) => {
-      if (snapshot.exists()) {
-        console.log(snapshot.val());
-      } else {
-        console.log("No data available");
-      }
-    })
-    .catch((error) => {
-      console.error(error);
-    });
+  }, []);
 
   return (
-    <div>
-      <h3>Spells</h3>
-      <ul>
-        {spells.map((spell) => (
-          <li key={spell.Name}>
-            <span>Name: {spell.Name}</span>
-            <li key={spell.Type}>
-              <span>Type: {spell.Type}</span>
-              <li key={spell.Pronunciation}>
-                <span>Pronunciation: {spell.Pronunciation}</span>
-                <li key={spell.Use}>
-                  <span>Use: {spell.Use}</span>
-                  <li key={spell.Etymology}>
-                    <span>Etymology: {spell.Etymology}</span>
-                    <li key={spell.Appearances}>
-                      <span>Appearances: {spell.Appearances}</span>
-                    </li>
-                  </li>
-                </li>
-              </li>
-            </li>
-          </li>
-        ))}
-      </ul>
+    <div className="App">
+      <h3>Choose A Spell Name</h3>
+      <select onInput={(ev) => getSpellByName(ev.target.value)}>
+        {spells.map((spell, i) => {
+          const spellName = spell.Name;
+
+          return (
+            <option key={spellName + i} value={spellName}>
+              {spellName}
+            </option>
+          );
+        })}
+      </select>
+
+      {displayedSpell && (
+        <div>
+          <h3>{displayedSpell.Name}</h3>
+
+          <div>
+            <strong>Type: </strong>
+            {displayedSpell.Type}
+          </div>
+          <div>
+            <strong>Pronunciation: </strong>
+            {displayedSpell.Pronunciation}
+          </div>
+          <div>
+            <strong>Use: </strong>
+            {displayedSpell.Use}
+          </div>
+          <div>
+            <strong>Etymology: </strong>
+            {displayedSpell.Etymology}
+          </div>
+          <div>
+            <strong>Appearances: </strong>
+            {displayedSpell.Appearances}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
